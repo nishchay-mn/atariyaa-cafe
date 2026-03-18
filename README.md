@@ -2,7 +2,7 @@
 
 A modern, Gen-Z aesthetic website for **Atariyaa Cafe**, Malviya Nagar, Jaipur.
 
-🔗 **Live Site:** https://YOUR-USERNAME.github.io/atariyaa-cafe
+🔗 **Live Site:** https://nishchay-mn.github.io/atariyaa-cafe
 
 ---
 
